@@ -1,0 +1,38 @@
+/* display property */
+
+/* inline */
+/* block */
+/* inline-block */
+/* none */
+/* contents */
+/* table */
+/* table-row */
+/* table-cell */
+/* flex */
+/* grid */
+/* inline-flex */
+/* inline-grid */
+/* initial */
+/* inherit */
+/* unset */
+/* revert */
+/* subgrid */
+
+/* example: */
+span {
+    display: block;
+  }
+
+  /* visibility property */
+  h1.hidden {
+    display: none;
+  }
+  h1.visible {
+    display: block;
+  }
+  h1.invisible {
+    visibility: hidden;
+  }
+    h1.visible {
+        visibility: visible;
+    }
