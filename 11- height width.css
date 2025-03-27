@@ -1,0 +1,33 @@
+div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+  }
+
+    div {
+        height: 200px;
+        width: 50%;
+        background-color: powderblue;
+        margin: auto;
+    }
+    div {
+        max-height: 100px;
+        width: 500px;
+        background-color: powderblue;
+      }
+
+      div {
+        max-width: 500px;
+        height: 100px;
+        background-color: powderblue;
+      }
+        div {
+            min-height: 100px;
+            width: 500px;
+            background-color: powderblue;
+        }
+        div {
+            min-width: 100px;
+            height: 500px;
+            background-color: powderblue;
+        }

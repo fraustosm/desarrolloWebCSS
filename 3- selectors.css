@@ -1,0 +1,19 @@
+/* Selectors */
+p{
+    font-family: verdana;
+    font-size: 20px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}   
+body{
+    background-color: lightblue;
+}
+#id{
+    color: red;
+}
+.class{
+    color: blue;
+}
