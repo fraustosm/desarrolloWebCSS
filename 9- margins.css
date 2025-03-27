@@ -1,0 +1,28 @@
+/* margins in css */
+body {
+  margin: 50px;
+}
+div {
+  margin: 20px;
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  p {
+    margin: 25px 50px 75px 100px;
+  }
+
+  p {
+    margin: 25px 50px;
+  }
+
+  div {
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+  }

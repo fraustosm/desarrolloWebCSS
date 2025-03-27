@@ -1,0 +1,89 @@
+
+/*text color*/
+body {
+    color: blue;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+  p {
+    background-color: black;
+    color: white;
+  }
+  
+/*text alignment*/
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: left;
+  }
+  
+  h3 {
+    text-align: right;
+  }
+
+  div {
+    text-align: justify;
+  }
+
+  img.a {
+    vertical-align: baseline;
+  }
+  
+  img.b {
+    vertical-align: text-top;
+  }
+  
+  img.c {
+    vertical-align: text-bottom;
+  }
+  
+  img.d {
+    vertical-align: sub;
+  }
+  
+  img.e {
+    vertical-align: super;
+  }
+
+  /*text decoration*/
+    h1 {
+        text-decoration: underline;
+    }
+
+    /*text transformation*/
+    h1 {
+        text-transform: uppercase;
+    }
+
+    p{
+        text-transform: lowercase;
+    }
+
+    h2 {
+        text-transform: capitalize;
+    }
+
+    /*text spacing*/
+    h1 {
+        letter-spacing: 3px;
+    }
+    p{
+        word-spacing: 30px;
+    }
+
+    h2 {
+        line-height: 2.0;
+    }
+
+    p{
+        text-indent: 50px;
+    }
+
+    div {
+        white-space: nowrap;
+    }

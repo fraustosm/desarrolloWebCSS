@@ -1,0 +1,23 @@
+/* backgrounds in css */
+body {
+    background-color: lightblue;
+  }
+
+  p{
+    background-color:aqua;
+    opacity: 0.5;
+  }
+
+    h1{
+        background-color:yellow;
+        opacity: 50%;
+    }
+
+    div {
+        background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+      }
+
+      body {
+        background-image: url("paper.gif");
+      }
+      
