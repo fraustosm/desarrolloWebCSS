@@ -1,0 +1,40 @@
+/* CSS Combinators
+A combinator is something that explains the relationship between the selectors.
+
+A CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator.
+
+There are four different combinators in CSS:
+
+Descendant combinator (space)
+Child combinator (>)
+Next sibling combinator (+)
+Subsequent-sibling combinator (~)
+*/
+
+/* The Descendant Combinator */
+div p {
+  background-color: yellow;
+}
+
+/* The Child Combinator */
+div > p {
+  background-color: lightblue;
+}
+/* The Next Sibling Combinator */
+h1 + p {
+  background-color: lightgreen;
+}
+/* The Subsequent Sibling Combinator */
+h1 ~ p {
+  background-color: lightcoral;
+}
+/* The Universal Selector */
+* {
+  background-color: lightgray;
+}
+/* The Grouping Selector */
+h1,
+h2,
+h3 {
+  background-color: lightpink;
+}  

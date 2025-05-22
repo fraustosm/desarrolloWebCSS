@@ -1,0 +1,25 @@
+/* overflow property
+
+This property specifies whether to clip content, render scrollbars, or overflow content when it is too large to fit in a specified area.
+
+*/
+
+/* overflow: visible; */
+div {
+    width: 200px;
+    height: 65px;
+    background-color: coral;
+    overflow: visible;
+  }
+/* overflow: hidden; */
+div {
+    overflow: hidden;
+  }
+/* overflow: scroll; */
+div {
+    overflow: scroll;
+  }
+/* overflow: auto; */
+div {
+    overflow: auto;
+  }

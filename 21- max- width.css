@@ -1,0 +1,17 @@
+/* max-width 
+
+This property is used to set the maximum width of an element. It prevents the used value of the width property from becoming larger than the value specified for max-width.
+
+*/
+
+div.ex1 {
+    width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+  }
+  
+  div.ex2 {
+    max-width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+  }

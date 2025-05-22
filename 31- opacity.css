@@ -1,0 +1,20 @@
+/* The opacity property specifies the opacity/transparency of an element. */
+
+/* transparent - The element is fully transparent */
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
+/* Transparency using RGBA color */
+div {
+  background-color: rgba(255, 0, 0, 0.5); /* Red with 50% opacity */
+  width: 200px;
+  height: 200px;
+}
+div:hover {
+  background-color: rgba(0, 255, 0, 0.5); /* Green with 50% opacity */
+}
