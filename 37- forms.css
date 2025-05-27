@@ -1,0 +1,101 @@
+/* CSS Forms styling */
+
+input[type="text"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="button"] {
+  width: 120px;
+  margin-left: 35px;
+  display: block;
+}
+input[type="submit"] {
+  width: 120px;
+  margin-left: 35px;
+  display: block;
+}
+input[type="reset"] {
+  width: 120px;
+  margin-left: 35px;
+  display: block;
+}
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin-left: 35px;
+  display: block;
+}
+input[type="radio"] {
+  width: 20px;
+  height: 20px;
+  margin-left: 35px;
+  display: block;
+}
+input[type="file"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="password"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="email"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="url"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="tel"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="number"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="search"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="color"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="datetime"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="date"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
+input[type="month"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: yellow;
+}
